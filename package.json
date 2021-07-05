@@ -1,0 +1,19 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "Password-Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanmayPatil23/Password-Generator.git"
+  },
+  "author": "Tanmay Patil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TanmayPatil23/Password-Generator/issues"
+  },
+  "homepage": "https://github.com/TanmayPatil23/Password-Generator#readme"
+}
