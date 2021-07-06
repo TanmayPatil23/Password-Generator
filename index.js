@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 const program = require("commander");
 const chalk = require("chalk");
 const clipboardy = require("clipboardy");
